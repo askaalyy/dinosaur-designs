@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed
-  font-family: Georgia, serif;
+  font-family; Georgia, serif;
   line-height: 1.5;
 }
 
@@ -22,4 +22,13 @@ figcaption{
   font-size: .8rem;
   font-size: italic;
   text-align: center;
+}
+
+nav ol {
+list-style-type: none;
+}
+
+nav a:hover{
+  color: #b42885;
+  text-decoration: underline;
 }
